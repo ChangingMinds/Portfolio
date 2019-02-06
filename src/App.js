@@ -12,13 +12,13 @@ class App extends Component {
   render() {
     return (
       <div className='App'>
-        <img src={htmlLogo} />
-        <img src={reactLogo} />
-        <img src={herokuLogo} />
-        <img src={nodejsLogo} />
-        <img src={mongodbLogo} />
-        <img src={expressLogo} />
-        <img src={css3Logo} />
+        <img src={htmlLogo} alt='' />
+        <img src={reactLogo} alt=''/>
+        <img src={herokuLogo} alt=''/>
+        <img src={nodejsLogo} alt=''/>
+        <img src={mongodbLogo} alt=''/>
+        <img src={expressLogo} alt=''/>
+        <img src={css3Logo} alt=''/>
           <div className='name'>
             <h1>Benedict Ng-Wai</h1>
               <div className='title'>
